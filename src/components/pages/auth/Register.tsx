@@ -13,10 +13,10 @@ const Register = () => {
                   <input type="Email" placeholder='Email' className='w-full h-[45px] rounded-md p-3  text-[25px] outline-yellow-600 border' />
                 </div>
                 <div className='w-full h-[25px] my-12'>
-                  <input type="password" placeholder='Password' className='w-full h-[45px] rounded-md p-3  text-[25px]  outline-yellow-600 border' />
+                  <input type="password" placeholder='Password' className='w-full h-[45px] rounded-md p-3  text-[25px]  outline-green-600 border' />
                 </div>
 
-                <button type='submit' className='w-full h-[45px] text-[25px] bg-yellow-600  mt-6 rounded-md  text-white'>
+                <button type='submit' className='w-full h-[45px] text-[25px] bg-green-600  mt-6 rounded-md  text-white'>
                  Register
                 </button>
                 <div className='flex justify-center items-center m-3 text-[20px]'>
