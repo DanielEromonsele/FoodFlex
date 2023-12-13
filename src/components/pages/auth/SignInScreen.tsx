@@ -6,8 +6,8 @@ const SignInScreen = () => {
  return(
     <div className="w-full h-[100vh] flex justify-center items-center bg-purple-900">
         <div className='w-[50%] h-[100vh] flex items-center justify-center flex-col S320:w-full S375:w-full S425:w-full S768:full'>
-      <div className='text-[55px] font-bold text-white S320:text-[30px] S375:text-[35px]'>Eat
-        <span className='text-orange-600'>Easy</span> 
+      <div className='text-[55px] font-bold text-white S320:text-[30px] S375:text-[35px]'>Food
+        <span className='text-orange-600'>Flex</span> 
       </div>
       <div className='flex justify-center items-center m-3 text-[20px]'>
                   New To Food Flex? 
@@ -59,7 +59,7 @@ const SignInScreen = () => {
           <div className=" text-center font-medium text-[12px] text-white ">
             From ordering to paying, that's all contactless
           </div>
-          <div className="font-bold mt-6  text-[30px] text-orange-600"><span className="text-black">Eat</span>Easy</div>
+          <div className="font-bold mt-6  text-[30px] text-orange-600"><span className="text-black">Food</span>Flex</div>
         </div> 
           </div>
           

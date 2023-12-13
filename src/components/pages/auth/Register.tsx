@@ -58,7 +58,7 @@ const Register = () => {
           <div className=" text-center font-medium text-[12px] text-white ">
             From ordering to paying, that's all contactless
           </div>
-          <div className="font-bold mt-6  text-[30px] text-orange-600"><span className="text-black">Eat</span>Easy</div>
+          <div className="font-bold mt-6  text-[30px] text-orange-600"><span className="text-black">Food</span>Flex</div>
         </div> 
           </div>
           
